@@ -8,7 +8,7 @@
 #  in a no payload package and add to Jamf Prestage as needed
 
 eventName="runSomething"
-launchAgentName="com.github.${eventName}.plist"
+launchAgentName="com.github.jamf.${eventName}.plist"
 # production path - uncomment to before deployment
 # launchAgentPath="/Library/LaunchAgents/${launchAgentName}"
 
