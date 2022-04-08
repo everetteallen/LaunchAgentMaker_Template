@@ -1,4 +1,4 @@
-# LauchAgentMaker_Template
+# LaunchAgentMaker_Template
 Creates a macOS LaunchAgent configuration plist that runs jamf custom policy trigger.  
 Could run anything really.  
 For Jamf paste this script into a post install script
